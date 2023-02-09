@@ -10,5 +10,8 @@ public class Main {
 
         System.out.println(salesManagerSergey.max());
         System.out.println(salesManagerSveta.max());
+
+        System.out.println(salesManagerSergey.average());
+        System.out.println(salesManagerSveta.average());
     }
 }
